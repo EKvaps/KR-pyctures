@@ -4,7 +4,7 @@ app = Flask(__name__)
 app.secret_key = "kr_pyctures_secret"
 
 PASSWORD = "user0000"
-GANANCIA = 40
+GANANCIA = 60
 
 productos = []
 
